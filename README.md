@@ -205,8 +205,8 @@ body {
 ```
 
 ## Output:
+![Screenshot (17)](https://github.com/user-attachments/assets/0501b19f-5ef1-4eb7-80eb-0d86734609a1)
 
-![alt text](<../Screenshot (17).png>)
 
 ## Result:
 
