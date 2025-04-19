@@ -5,7 +5,6 @@
 ### Date: 19-04-2025
 
 ## Aim:
-
 To create a simple weather application using React that allows the user to enter a city name and view simulated weather data such as temperature, wind speed, and sky condition.
 
 
